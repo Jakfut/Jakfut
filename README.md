@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakob</h1>
 <h3 align="center">An aspiring software developer from Austria</h3>
 
-- 🔭 I’m currently working my [diploma thesis at SZ-Ybbs](https://www.sz-ybbs.ac.at/)
+- 🔭 I’m currently working my diploma thesis at [SZ-Ybbs](https://www.sz-ybbs.ac.at/)
 
 - 🌱 I’m currently learning **Spring, OAuth2, Docker**
 
